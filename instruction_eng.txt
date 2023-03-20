@@ -1,0 +1,23 @@
+1. download archive from github
+
+2. go to the files folder and open the accounts.txt file
+
+3. fill in the accounts.txt file, example:
+
+{api_id} {api_hash} {number1} {number2} {number3} [...]
+
+notation:
+
+to get api_id and api_hash go to the site https://my.telegram.org/auth
+
+4. after that, go to the LS_chat.txt file and add people to whom we will send ads
+  
+  ```or you can use the get_users.py script```
+
+
+5. then you can fill in the group.txt file, I think it’s not so difficult to find groups in Google
+
+6. next you have to write a PR message for mailing in message.txt file
+7. if you want to change the name of the files, then first change the name of these files in settings.py
+8. if you want to change the delay between sending SMS, go to the settings.py file and change the variable time_sleep = 1
+9. run main.py and check the work
