@@ -32,3 +32,5 @@
 notation:
 
 **to get api_id and api_hash go to the site** [my.telegram.org](https://my.telegram.org/auth)
+
+4. 
