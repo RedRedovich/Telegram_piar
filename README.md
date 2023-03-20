@@ -8,6 +8,7 @@
 | Information      | Returns          | 
 | ------------- |:-------------:|
 | ``` author ``` |[Redpiar](https://t.me/Redpiar)|
+| ``` telegram ``` |[Channel](https://t.me/BotesForTelegram)|
 | ``` version ``` |1.0.0| 
 | ``` CopyRight ``` |[Redpiar](https://t.me/Redpiar)|
 
